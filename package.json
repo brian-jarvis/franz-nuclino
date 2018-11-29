@@ -1,0 +1,24 @@
+
+{
+    "id": "nuclino",
+    "name": "Nuclino",
+    "version": "1.0.0",
+    "description": "Nuclino Knowledgebase",
+    "main": "index.js",
+    "author": "Brian Jarvis",
+    "license": "GPL",
+    "config": {
+      "serviceURL": "https://app.nuclino.com/",
+      "serviceName": "Nuclino",
+      "message": "Nuclino",
+      "popup": [],
+      "hasNotificationSound": false,
+      "hasIndirectMessages": false,
+      "customURL": false,
+      "hasTeamID": false,
+      "webviewOptions": {
+        "disablewebsecurity": ""
+      },
+      "openDevTools": false
+    }
+  }
