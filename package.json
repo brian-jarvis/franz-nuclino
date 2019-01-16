@@ -1,16 +1,16 @@
 
 {
-    "id": "nuclino",
-    "name": "Nuclino",
+    "id": "rhrover",
+    "name": "Rover",
     "version": "1.0.0",
-    "description": "Nuclino Knowledgebase",
+    "description": "Redhat Rover",
     "main": "index.js",
     "author": "Brian Jarvis",
     "license": "GPL",
     "config": {
-      "serviceURL": "https://app.nuclino.com/",
-      "serviceName": "Nuclino",
-      "message": "Nuclino",
+      "serviceURL": "https://rover.redhat.com/",
+      "serviceName": "Rover",
+      "message": "Rover",
       "popup": [],
       "hasNotificationSound": false,
       "hasIndirectMessages": false,
